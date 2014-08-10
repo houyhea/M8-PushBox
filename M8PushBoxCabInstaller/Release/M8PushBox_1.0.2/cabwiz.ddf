@@ -1,0 +1,84 @@
+;
+; cabwiz.ddf
+;
+; Template directive file to create the CAB file
+;
+
+.Set Cabinet=ON
+.Set Compress=OFF
+.Set CabinetFileCountThreshold=0    ; no files per cabinet threshold
+.Set FolderFileCountThreshold=0     ; no files per folder threshold
+.Set FolderSizeThreshold=0          ; no folder size threshold
+.Set MaxCabinetSize=0               ; no max size for the cabinet
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+.Set ReservePerCabinetSize=0        ; for web signing
+.Set ReservePerDataBlockSize=0
+.Set ReservePerFolderSize=0
+.Set UniqueFiles=OFF
+
+.Set DiskDirectory1=.
+.Set DiskLabel1=Setup
+
+;
+; to be filled out by the CABWIZ.exe program
+.Set InfFileName=NULL
+.Set RptFileName=NULL
+.Set CabinetName1=InstallApp.cab
+;
+; followed by the list of files
+00000000.028
+000about.021
+0aboutbg.017
+000000bg.038
+000blank.002
+00000box.003
+000close.023
+0000DEST.045
+00gamebg.005
+0000help.020
+0000logo.008
+00mainbg.025
+
+0000MOVE.046
+00person.011
+
+00resume.040
+0resumeh.041
+00return.018
+00return.042
+0returnH.043
+0returnH.043
+000start.026
+0000succ.044
+0SUCCESS.047
+00target.015
+0000wall.016
+00000001.029
+00000002.030
+00000003.031
+00000004.032
+00000005.033
+00000006.034
+00000007.035
+00000008.036
+00000009.037
+ABOUTH~1.022
+BOXONT~1.004
+CLEARL~1.039
+CLOSEH~1.024
+LEFT-H~1.006
+LEFT-N~1.007
+M8PUSH~1.000
+M8PUSH~1.001
+MENU-H~1.009
+MENU-N~1.010
+PERSON~1.012
+RETURN~1.019
+RIGHT-~1.013
+RIGHT-~2.014
+STARTH~1.027
+_setup.xml
+
+
+

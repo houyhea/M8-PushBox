@@ -1,0 +1,8 @@
+D:\M8\develop\M8PushBoxLevelMaker\M8PushBoxLevelMaker\obj\Debug\ResolveAssemblyReference.cache
+D:\M8\develop\M8PushBoxLevelMaker\M8PushBoxLevelMaker\obj\Debug\M8PushBoxLevelMaker.Form1.resources
+D:\M8\develop\M8PushBoxLevelMaker\M8PushBoxLevelMaker\obj\Debug\M8PushBoxLevelMaker.Properties.Resources.resources
+D:\M8\develop\M8PushBoxLevelMaker\M8PushBoxLevelMaker\obj\Debug\M8PushBoxLevelMaker.csproj.GenerateResource.Cache
+D:\M8\develop\M8PushBoxLevelMaker\M8PushBoxLevelMaker\bin\Debug\M8PushBoxLevelMaker.exe
+D:\M8\develop\M8PushBoxLevelMaker\M8PushBoxLevelMaker\bin\Debug\M8PushBoxLevelMaker.pdb
+D:\M8\develop\M8PushBoxLevelMaker\M8PushBoxLevelMaker\obj\Debug\M8PushBoxLevelMaker.exe
+D:\M8\develop\M8PushBoxLevelMaker\M8PushBoxLevelMaker\obj\Debug\M8PushBoxLevelMaker.pdb

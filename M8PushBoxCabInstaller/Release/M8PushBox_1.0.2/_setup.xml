@@ -1,0 +1,285 @@
+<wap-provisioningdoc>
+<characteristic type="Install">
+<parm name="InstallPhase" value="install" />
+<parm name="OSVersionMin" value="4.0" />
+<parm name="OSVersionMax" value="6.99" />
+<parm name="BuildNumberMin" value="0" />
+<parm name="BuildNumberMax" value="-536870912" />
+<parm name="AppName" value="M8&#x63A8;&#x7BB1;&#x5B50;" />
+<parm name="InstallDir" value="%CE1%\M8PushBoxCabInstaller" translation="install" />
+<parm name="NumDirs" value="9" />
+<parm name="NumFiles" value="47" />
+<parm name="NumRegKeys" value="1" />
+<parm name="NumRegVals" value="4" />
+<parm name="NumShortcuts" value="0" />
+</characteristic>
+<characteristic type="FileOperation">
+<characteristic type="\disk\programs\games\M8PushBox\pic\about" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="aboutbg.jpg" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0aboutbg.017" />
+</characteristic>
+</characteristic>
+<characteristic type="return.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00return.018" />
+</characteristic>
+</characteristic>
+<characteristic type="returnHover.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="RETURN~1.019" />
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="\disk\programs\games\M8PushBox\pic\help" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="help.jpg" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0000help.020" />
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="\disk\programs\games\M8PushBox\pic\main" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="about.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="000about.021" />
+</characteristic>
+</characteristic>
+<characteristic type="aboutHover.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="ABOUTH~1.022" />
+</characteristic>
+</characteristic>
+<characteristic type="close.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="000close.023" />
+</characteristic>
+</characteristic>
+<characteristic type="closeHover.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="CLOSEH~1.024" />
+</characteristic>
+</characteristic>
+<characteristic type="mainbg.jpg" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00mainbg.025" />
+</characteristic>
+</characteristic>
+<characteristic type="start.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="000start.026" />
+</characteristic>
+</characteristic>
+<characteristic type="startHover.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="STARTH~1.027" />
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="\disk\programs\games\M8PushBox\pic\number" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="0.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000000.028" />
+</characteristic>
+</characteristic>
+<characteristic type="1.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000001.029" />
+</characteristic>
+</characteristic>
+<characteristic type="2.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000002.030" />
+</characteristic>
+</characteristic>
+<characteristic type="3.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000003.031" />
+</characteristic>
+</characteristic>
+<characteristic type="4.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000004.032" />
+</characteristic>
+</characteristic>
+<characteristic type="5.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000005.033" />
+</characteristic>
+</characteristic>
+<characteristic type="6.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000006.034" />
+</characteristic>
+</characteristic>
+<characteristic type="7.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000007.035" />
+</characteristic>
+</characteristic>
+<characteristic type="8.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000008.036" />
+</characteristic>
+</characteristic>
+<characteristic type="9.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000009.037" />
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="\disk\programs\games\M8PushBox\pic\tip" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="bg.jpg" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="000000bg.038" />
+</characteristic>
+</characteristic>
+<characteristic type="clearlevel.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="CLEARL~1.039" />
+</characteristic>
+</characteristic>
+<characteristic type="resume.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00resume.040" />
+</characteristic>
+</characteristic>
+<characteristic type="resumeh.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0resumeh.041" />
+</characteristic>
+</characteristic>
+<characteristic type="return.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00return.042" />
+</characteristic>
+</characteristic>
+<characteristic type="returnH.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0returnH.043" />
+</characteristic>
+</characteristic>
+<characteristic type="succ.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0000succ.044" />
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="\disk\programs\games\M8PushBox\pic" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="blank.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="000blank.002" />
+</characteristic>
+</characteristic>
+<characteristic type="box.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00000box.003" />
+</characteristic>
+</characteristic>
+<characteristic type="boxontarget.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="BOXONT~1.004" />
+</characteristic>
+</characteristic>
+<characteristic type="gamebg.jpg" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00gamebg.005" />
+</characteristic>
+</characteristic>
+<characteristic type="left-hover.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="LEFT-H~1.006" />
+</characteristic>
+</characteristic>
+<characteristic type="left-normal.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="LEFT-N~1.007" />
+</characteristic>
+</characteristic>
+<characteristic type="logo.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0000logo.008" />
+</characteristic>
+</characteristic>
+<characteristic type="menu-hover.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="MENU-H~1.009" />
+</characteristic>
+</characteristic>
+<characteristic type="menu-normal.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="MENU-N~1.010" />
+</characteristic>
+</characteristic>
+<characteristic type="person.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00person.011" />
+</characteristic>
+</characteristic>
+<characteristic type="personontarget.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="PERSON~1.012" />
+</characteristic>
+</characteristic>
+<characteristic type="right-hover.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="RIGHT-~1.013" />
+</characteristic>
+</characteristic>
+<characteristic type="right-normal.png" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="RIGHT-~2.014" />
+</characteristic>
+</characteristic>
+<characteristic type="target.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="00target.015" />
+</characteristic>
+</characteristic>
+<characteristic type="wall.bmp" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0000wall.016" />
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="\disk\programs\games\M8PushBox\wav" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="DEST.WAV" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0000DEST.045" />
+</characteristic>
+</characteristic>
+<characteristic type="MOVE.WAV" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0000MOVE.046" />
+</characteristic>
+</characteristic>
+<characteristic type="SUCCESS.WAV" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0SUCCESS.047" />
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="\disk\programs\games\M8PushBox" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="m8pushbox.exe" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="M8PUSH~1.001" />
+</characteristic>
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="Registry">
+<characteristic type="HKLM\SOFTWARE\Meizu\MiniOneShell\main\M8PushBox">
+<parm name="DefaultIcon" value="\disk\programs\games\m8pushbox\pic\logo.png" datatype="string" />
+<parm name="DisplayName" value="M8&#x63A8;&#x7BB1;&#x5B50;" datatype="string" />
+<parm name="ExecFileName" value="\disk\programs\games\m8pushbox\m8pushbox.exe" datatype="string" />
+<parm name="ProgramID" value="{6E0C2D7F-5564-4a2a-88B7-8CF5C0DAF0CC}" datatype="string" />
+</characteristic>
+</characteristic>
+</wap-provisioningdoc>
